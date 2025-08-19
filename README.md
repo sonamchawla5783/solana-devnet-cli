@@ -17,9 +17,11 @@ This repository demonstrates how to use the Solana CLI to request SOL tokens fro
    solana config set --url https://api.devnet.solana.com
 
 2. Run airdrop command:
+   ```bash
    solana airdrop 2 <WALLET_ADDRESS>
 
-3. Check balance:
+4. Check balance:
+   ```bash
    solana balance <WALLET_ADDRESS>
 
-⭐ Star this repo if you find it useful!
+## ⭐ Star this repo if you find it useful!
